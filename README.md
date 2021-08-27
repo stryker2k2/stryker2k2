@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=stryker2k2&theme=dark" style="max-width:100%;">
+
 - 👋 Hi, I’m @stryker2k2
 - 👀 I’m interested in Cyber Capabilities Development and Reverse Engineering
 - 🌱 I’m currently learning ReactJS
