@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @stryker2k2
 - 👀 I’m interested in Cyber Capabilities Development and Reverse Engineering
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS and Flask
 - 💞️ I’m looking to collaborate on Cyber Security
 - 📫 You can reach me at @stryker2k2 on Twitter or search "Stryker2k2" on YouTube
 
